@@ -34,7 +34,10 @@ Nossa prova de conceito consiste em monitorar regiões remotas com coleta de dad
 
 ### 2.1 Diagrama geral da solução
 
+Visite o <a href-"./implementacao/2.1 - Requisitos/README.md">Documento</a> para maiores informações sobre os requisitos e passo a passo para colocar essa solução para rodar no seu computador simulando todas as peças e componentes. 
+
 ![Diagrama](./assets/arquitetura.png)
+
 
 ### 2.2 Coleta e pre-processamento (IoT e FogComputing)
 
