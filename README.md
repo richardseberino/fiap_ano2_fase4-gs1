@@ -8,8 +8,14 @@
 
 # 🎓 Graduação ON em Inteligência Artificial  
 ## 📚 Repositório Oficial de Projetos e Trabalhos Acadêmicos
+## Fase 4 - GS1
 
 ---
+## Grupo DRELL
+
+## 👨‍🎓 Integrantes:
+- <a href="https://www.linkedin.com/in/richard-marques-26b3a14/">Richard</a>
+- <a href="https://www.linkedin.com/in/luis-fernando-dos-santos-costa-b69894365/">Luis</a>
 
 ## 👩🏻‍💻 Sobre este Repositório
 
