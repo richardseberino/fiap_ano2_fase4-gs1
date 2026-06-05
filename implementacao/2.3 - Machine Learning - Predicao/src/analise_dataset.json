@@ -1,0 +1,24 @@
+{
+  "dataset_info": {
+    "total_amostras": 1000,
+    "amostras_sem_risco": 781,
+    "amostras_com_risco": 219,
+    "percentual_risco": 21.9
+  },
+  "temperatura": {
+    "minima": 18.03,
+    "maxima": 38.0,
+    "media": 28.34268,
+    "desvio_padrao": 3.6194074277052217
+  },
+  "umidade": {
+    "minima": 25.0,
+    "maxima": 94.98,
+    "media": 62.41765,
+    "desvio_padrao": 19.620660898950668
+  },
+  "correlacoes": {
+    "temperatura_risco": 0.6540585036291461,
+    "umidade_risco": -0.7057226836879952
+  }
+}
