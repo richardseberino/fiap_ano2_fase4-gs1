@@ -41,7 +41,8 @@ Nossa prova de conceito consiste em monitorar regiões remotas com coleta de dad
 Vamos usar um dispositivo IoT conectado a internet via Wi-fi com sensores de umidade e temperatura para identificar desvio nos thresholds padrões para o ambiente monitorado. Uma vez que esses thresholds sejam violados os dados da coleta serão enviados para um tópico em um broker MQTT. 
 Uma instancia local no NodeRed coleta os dados do broker MQTT e envia para uma base de dados InfluxDB em um provedor de Cloud (vamos simular com uma instancia de container rodando o influxDB)
 
-![Esp32 - Coleta](./assets/diagram-esp32.png)
+<img src="./assets/diagram-esp32.png" alt="Coleta ESP32" width="500"> 
+
 
 ### 2.3 Analise de desvios (Cloud Comnputing e Machine Learning)
 
@@ -57,7 +58,7 @@ Aqui os responsáveis pela área monitorada usam um apliativo em seu telefone ce
 
 O aplicativo consulta a API do serviço de análise e quando identifica algum risco avisa o usuário com os detalhes da análise. 
 
-<img src="./assets/android-detalhe-alerta.png" alt="Detalhe do alerta" width="400"> 
+<img src="./assets/android-detalhe-alerta.png" alt="Detalhe do alerta" width="300"> 
 
 ---
 
