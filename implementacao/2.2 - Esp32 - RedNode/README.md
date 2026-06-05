@@ -90,5 +90,5 @@ print("Conectado ao Broker MQTT!")
 
 Esta integração será feita com o Node Red.
 
-A configuração passo a passo e a explicação do funcionamento deste componente esta documentado no item 2.1 - Requisitos ![Requisitos](../2.1%20-%20Requisitos/READM.md)
+A configuração passo a passo e a explicação do funcionamento deste componente esta documentado no item 2.1 - [Requisitos](../2.1%20-%20Requisitos/READM.md)
 
