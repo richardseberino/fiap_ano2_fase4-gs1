@@ -20,7 +20,6 @@ docker-compose up
 ```
 
 Esse comando vai subir alguns componentes:
-- Grafana
 - Broker MQTT Mosquito
 - NodeRed
 - InfluxDB
