@@ -18,9 +18,8 @@ A aplicação possui 2 capacidades principais:
 
 2) Ver a lista dos alertas em aberto
 - Esta função permite o usuário avaliar os alertas ainda em aberto
-<img src="./imagens/android-alertas.png" alt="Lista de Alertas" width="150"> 
+<img src="./imagens/android-alertas.png" alt="Lista de Alertas" width="250"> 
 
 - Permite também visualizar os detalhes dos alertas (como valores da temperatura e umidade, além das recomendações de ações a serem tomadas)
-![Detalhe do Alerta](./imagens/android-detalhe-alerta.png)
-<img src="./imagens/android-detalhe-alerta.png" alt="Detalhe de Alertas" width="150"> 
+<img src="./imagens/android-detalhe-alerta.png" alt="Detalhe de Alertas" width="250"> 
 
