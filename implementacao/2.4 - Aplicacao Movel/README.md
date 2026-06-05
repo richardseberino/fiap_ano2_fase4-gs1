@@ -14,12 +14,13 @@ A aplicação possui 2 capacidades principais:
 1) Receber notificações via PUSH
 - Esta função permite ao usuário ser notificado sem precisar estar com a aplicação aberta
 
-![Notificação OTA](./imagens/android-notificacao.png)
+<img src="./imagens/android-notificacao.png" alt="Notificação" width="200"> 
 
 2) Ver a lista dos alertas em aberto
 - Esta função permite o usuário avaliar os alertas ainda em aberto
-![Lista de Alertas](./imagens/android-alertas.png)
+<img src="./imagens/android-alertas.png" alt="Lista de Alertas" width="150"> 
 
 - Permite também visualizar os detalhes dos alertas (como valores da temperatura e umidade, além das recomendações de ações a serem tomadas)
 ![Detalhe do Alerta](./imagens/android-detalhe-alerta.png)
+<img src="./imagens/android-detalhe-alerta.png" alt="Detalhe de Alertas" width="150"> 
 
