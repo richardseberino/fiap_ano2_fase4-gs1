@@ -32,6 +32,8 @@ O resultado desse código deve exibir todos os passos feitos para definir o melh
 Para executar a API execute o comando abaixo:
 ```
 python3 api_predicao_incendio.py
+```
+
 
 ## 2.3.3 - Testando a API
 
