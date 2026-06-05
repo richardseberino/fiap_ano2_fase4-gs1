@@ -28,7 +28,13 @@ Aqui você vai encontrar todos os detalhes, esplicações, diagrams, código e d
 - Código gerado nos diferentes componentes (ESP32, APIs em Python, Interfaces em Reactive, etec)
 - Video da apreserntação do projeto
 
+Segue o link do video demonstrando o projeto funcionando!
+<a href="https://youtu.be/pKWnvLXyFS4"><img src="assets/youtube.png" width="400"></a>
+
+
+
 Este repositório funciona como um **portfólio técnico estruturado**, evidenciando domínio progressivo das competências exigidas na formação.
+
 
 ---
 
