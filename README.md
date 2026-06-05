@@ -34,7 +34,7 @@ Nossa prova de conceito consiste em monitorar regiões remotas com coleta de dad
 
 ### 2.1 Diagrama geral da solução
 
-Visite o <a href-"./implementacao/2.1 - Requisitos/README.md">Documento</a> para maiores informações sobre os requisitos e passo a passo para colocar essa solução para rodar no seu computador simulando todas as peças e componentes. 
+Visite o [Documento de Requisitos](./implementacao/2.1%20-%20Requisitos/READM.md) para maiores informações sobre os requisitos e passo a passo para colocar essa solução para rodar no seu computador simulando todas as peças e componentes. 
 
 ![Diagrama](./assets/arquitetura.png)
 
@@ -46,6 +46,7 @@ Uma instancia local no NodeRed coleta os dados do broker MQTT e envia para uma b
 
 <img src="./assets/diagram-esp32.png" alt="Coleta ESP32" width="500"> 
 
+Visite o [Documento de Definição](./implementacao/2.2%20-%20Esp32%20-%20RedNode/README.md) para ver os detalhes do código que implementamos para fazer a coleta e o envio de dados
 
 ### 2.3 Analise de desvios (Cloud Comnputing e Machine Learning)
 
@@ -55,6 +56,8 @@ Este Serviço possui um modelo de machine learning treinado para avaliar riscos 
 
 Este Serviço possui uma API que analisa a última coleta enviada, e retorna a análise de risco .
 
+Consulte o [Documento](./implementacao/2.3%20-%20Machine%20Learning%20-%20Predicao/README.md) para ver como o modelo de Machine Learning foi treinado e também sobre a API em Python que consome os dados, submete ao modelo para predição e retorna o resultado via API Rest.
+
 ### 2.4 Aplicação Móvel (Desenvolvimento Mobile em Android)
 
 Aqui os responsáveis pela área monitorada usam um apliativo em seu telefone celular onde é recebem os avisos via notificação PUSH dos alertas de riscos confirmados por dados e um modelo de Machine Learning. Com essa informação em tempo real eles conseguem reagir de forma mais tempestiva para conter o problema.
@@ -62,6 +65,8 @@ Aqui os responsáveis pela área monitorada usam um apliativo em seu telefone ce
 O aplicativo consulta a API do serviço de análise e quando identifica algum risco avisa o usuário com os detalhes da análise. 
 
 <img src="./assets/android-detalhe-alerta.png" alt="Detalhe do alerta" width="300"> 
+
+Consulte o [Documento](./implementacao/2.4%20-%20Aplicacao%20Movel/README.md) para maiores detalhes sobre a implementação da aplicação Móvel em Android. 
 
 ---
 
