@@ -57,7 +57,7 @@ Aqui os responsáveis pela área monitorada usam um apliativo em seu telefone ce
 
 O aplicativo consulta a API do serviço de análise e quando identifica algum risco avisa o usuário com os detalhes da análise. 
 
-![Alerta Android](./assets/android-detalhe-alerta.png)
+<img src=˜./assets/android-detalhe-alerta.png" alt=˜Detalhe do alerta" widht="400"> 
 
 ---
 
