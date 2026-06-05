@@ -29,6 +29,10 @@ O resultado desse código deve exibir todos os passos feitos para definir o melh
 
 ![Resultado da comparação dos modelos](./imagens/ml-resultado-treino.png)
 
+Para executar a API execute o comando abaixo:
+```
+python3 api_predicao_incendio.py
+
 ## 2.3.3 - Testando a API
 
 Se o ambiente estiver inteiro em execução e você simulou valores que gerem alertas, basta executar a API em sua ferramenta favorita de Rest API, no meu exemplo, estou usando Postman. Basta chamar a API http://localhost:5001/prever-sensor que ele vai retornar a última medição registrada no InfluxDB avaliada pelo modelo de Machine Learning. 
