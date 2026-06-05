@@ -14,7 +14,7 @@ b) Broker MQTT que recebe os dados e deixa eles disponíveis para consulta
 
 O projeto no ESP32 é bem simples, ele possui um Led (para indicar quando tem problema) e um sensor DHT22 para coletar dados de humidade e temperatura. 
 
-![Diagrama ESP32](./imagens/diagram-esp32.png)
+<img src="./imagens/diagram-esp32.png" alt="Coleta ESP32" width="400"> 
 
 #### Código ESP32
 
